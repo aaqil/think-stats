@@ -15,11 +15,12 @@ __Pareto Distribution:__ The Pareto distribution is named after the economist Vi
 used it to describe the distribution of wealth.
 Since then, it has been used to describe phenomena in the natural and social sciences including sizes of cities and towns, sand particles and meteorites, forest fires and earthquakes.
 
-It is defined by a shape parameter, α ( slope parameter or Pareto Index) and a location parameter, X
+It is defined by a shape parameter α ( slope parameter or Pareto Index) and a location parameter, X
 
 In the real world, it has two main applications like:
+
 1.To model the distribution of incomes.
-2.To model the distribution of city populations.
+1.To model the distribution of city populations.
 
 The Pareto distribution is expressed as:
 
