@@ -24,8 +24,42 @@ In the real world, it has two main applications like:
 
 The Pareto distribution is expressed as:
 
-F(x) = 1 – (k/x)^α
-where
-x is the random variable
-k is the lower bound of the data
-α is the shape parameter.
+F(x) = 1 – (k/x)^α <br>
+where<br>
+x is the random variable<br>
+k is the lower bound of the data<br>
+α is the shape parameter.<br>
+
+* __Survival Function:__ It is also referred as a tail function or reliability function Sometimes. 	This is just the probability of values greater than X. <br>
+For example, whenever you are looking at the population in the India and want to know what proportion of population is greater than 10 million.
+
+<p align ="center">
+<img src="https://cdn.discordapp.com/attachments/405443897578356738/405447102832050176/PD.PNG">
+</p>
+
+__Cumulative distribution function:__ <br>
+Cumulative distribution function of a Pareto random variable with parameters α and x<sub>m</sub>  is <br>
+<p align ="center">
+<img src="https://cdn.discordapp.com/attachments/405443897578356738/405447113422405633/13133.PNG">
+</p><br>
+
+where x<sub>m</sub> ( or k) is the minimum possible value.
+
+## Normal distribution: <br>
+Normal (or __Gaussian__) distribution is a continuous probability distribution.
+It is sometimes called as __Bell Curve__. <br>
+
+__For Example:__ <br>
+The Bell curve is seen in tests like IIT, AIEEE,CAT etc. The bulk of students will score the average (C), while smaller numbers of students will score a B or D. An even smaller percentage of students score an F or an A. This creates a distribution that resembles a bell . The bell curve is symmetrical. Half of the data will fall to the left of the mean; half will fall to the right.<br>
+
+<p>
+ <img style=" height="30%" width="30%"  " src ="https://cdn.discordapp.com/attachments/405443897578356738/405447091150782495/nd.PNG"> 
+<img style=" height="20%" width="30%" " src ="https://cdn.discordapp.com/attachments/405443897578356738/405447106430763009/1222.PNG">
+ </p>
+ 
+ 
+
+
+
+
+
