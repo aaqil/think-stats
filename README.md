@@ -24,7 +24,7 @@ In the real world, it has two main applications like:
 
 The Pareto distribution is expressed as:
 
-F(x) = 1 – (k/x)^α <br>
+F(x) = 1 – (k/x)<sup>α</sup> <br>
 where<br>
 x is the random variable<br>
 k is the lower bound of the data<br>
@@ -63,7 +63,7 @@ The Bell curve is seen in tests like IIT, AIEEE,CAT etc. The bulk of students 
  * Exactly half of the values are to the left of center and exactly half the values are to the right.<br>
  * The total area under the curve is 1. <br>
  <br>
- The __empirical rule__ tells you what percentage of your data falls within a certain number of standard deviations from the mean: <br>
+ The empirical rule tells you what percentage of your data falls within a certain number of standard deviations from the mean: <br>
  * 68% of the data falls within one standard deviation of the mean. <br>
 * 95% of the data falls within two standard deviations of the mean.<br>
 * 99.7% of the data falls within three standard deviations of the mean.<br>
@@ -72,7 +72,7 @@ The Bell curve is seen in tests like IIT, AIEEE,CAT etc. The bulk of students 
 <img  style= " height="60%" width="60%" " src="https://cdn.discordapp.com/attachments/405443897578356738/405447112612904981/12323.PNG">
 </p><br>
 <br>
-The normal distribution has many properties that make it amenable for analysis, but the CDF is not one of them. Unlike the other distributions we have looked at, there is no closed-form expression for the normal CDF; the most common alternative is to write it in terms of the __error function__,which is a special function written __erf(x)__:<br>
+The normal distribution has many properties that make it amenable for analysis, but the CDF is not one of them. Unlike the other distributions we have looked at, there is no closed-form expression for the normal CDF; the most common alternative is to write it in terms of the **error function** ,which is a special function written **erf(x)**:   <br>
 <br>
 <p align ="center">
 <img src="https://cdn.discordapp.com/attachments/405443897578356738/405447123052789760/723782.PNG">
@@ -82,14 +82,14 @@ The normal distribution has many properties that make it amenable for analysis, 
 Bayes’ theorem is to determine conditional probability. A __conditional probability__ is an expression of how probable one event is, given that some other event occurred. <br>
 <br>
 * ### Conditional Probability: <br>
-Consider two events A and B <br>
+   Consider two events A and B <br>
 * Event A is the probability of the event we are trying to calculate.<br>
 * Event B is the condition that we know or the event that has happened.<br>
 We can write the conditional probability as P(A/B), the probability of the occurrence of event A given that B has already happened.<br>
 <p align ="center">
 <img src="https://cdn.discordapp.com/attachments/405443897578356738/405447108875911170/2312.PNG">
 </p><br>
-###### Let’s take a example: <br>
+#### Let’s take a example: <br>
 * Suppose you have a jar containing 6 marbles – 3 black and 3 white. What is the probability of getting a black given the first one was black too. <br>
 P (A) = getting a black marble in the first turn <br>
 P (B) = getting a black marble in the second turn <br>
