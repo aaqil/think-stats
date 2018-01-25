@@ -49,7 +49,7 @@ where x<sub>m</sub> ( or k) is the minimum possible value.
 Normal (or __Gaussian__) distribution is a continuous probability distribution.
 It is sometimes called as __Bell Curve__. <br>
 
-__For Example:__ <br>
+__For Example:__  <br>
 The Bell curve is seen in tests like IIT, AIEEE,CAT etc. The bulk of students will score the average (C), while smaller numbers of students will score a B or D. An even smaller percentage of students score an F or an A. This creates a distribution that resembles a bell . The bell curve is symmetrical. Half of the data will fall to the left of the mean; half will fall to the right.<br>
 
 <p>
