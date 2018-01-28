@@ -90,7 +90,8 @@ Bayes’ theorem is to determine conditional probability. A __conditional proba
 We can write the conditional probability as P(A/B), the probability of the occurrence of event A given that B has already happened.<br>
 <p align ="center">
 <img src="https://cdn.discordapp.com/attachments/405443897578356738/405447108875911170/2312.PNG">
-</p><br>
+</p>
+
 **Let’s take a example:**
 
 * Suppose you have a jar containing 6 marbles – 3 black and 3 white. What is the probability of getting a black given the first one was black too. <br>
@@ -109,11 +110,13 @@ For better understanding solve some problems on conditional probability.<br>
 
 <p align ="center">
 <img src="https://cdn.discordapp.com/attachments/405443897578356738/405447116790562817/14234.PNG">
-</p><br>
+</p>
+
 The **Sample Space(S)** of an experiment or random trial is the set of all possible outcomes or results of that experiment. <br>
-<br>
+
 The Bayes theorem describes the probability of an event based on the prior knowledge of the conditions that might be related to the event. If we know the conditional probability P(A/B), we can use the bayes rule to find out the reverse probabilities P(B/A). <br>
 Baye’s theorem has wide range of applicabilities in various domains like detecting flaws , testing cancer , business analysis etc.<br>
+
 **Let’s consider a simple example:**
 
 In a particular pain clinic, 10% of patients are prescribed narcotic pain killers. Overall, five percent of the clinic’s patients are addicted to narcotics (including pain killers and illegal substances). Out of all the people prescribed pain pills, 8% are addicts. If a patient is an addict, what is the probability that they will be prescribed pain pills? <br>
@@ -196,7 +199,7 @@ convolution of PDFY and PDFX, denoted with the operator ∗  <br>
 
 ## Chi Square test:  
 
-A chi-squared test, also written as <p><img src="https://cdn.discordapp.com/attachments/405443897578356738/405447119302950923/87387.PNG"></p> test, is any statistical hypothesistest where the sampling distribution of the test statistic is a chi-squared distribution when the **null 		hypothesis** is true.
+A chi-squared test, also written as <p><img src="https://cdn.discordapp.com/attachments/405443897578356738/405447119302950923/87387.PNG"></p> test, is any statistical hypothesis test where the sampling distribution of the test statistic is a chi-squared distribution when the **null 		hypothesis** is true.
 
 The chi-squared distribution with k degrees of freedom is the distribution of a sum of the squares of k independent standard normal random variables.<br>
 The chi-squared distribution is used in the common chi-squared tests for goodness of fit of an observed distribution to a theoretical one, the independence of two criteria of classification of qualitative data, and in confidence interval estimation for a population standard deviation of a normal distribution from a sample standard deviation.<br>
