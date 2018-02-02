@@ -146,7 +146,9 @@ The probability distribution of the sum of two or more independent random va
 
 It can be generally understood as, <br>
 Suppose we have two random variables, X and Y, with distributions CDF<sub>X</sub> and
-CDF<sub>Y</sub>. What is the distribution of the sum Z = X + Y?  is convolution.<br>
+CDF<sub>Y</sub>. What is the distribution of the sum  
+Z = X + Y?  is convolution
+
 __Proof:__ <br>
 There are several methods in which we can demonstrate the proof, but this one is simple and versatile.<br>
 Given any RandomVariables, X and Y, we can create a Sum object that represents Z. Then we can use a sample from Z to approximate CDF<sub>Z</sub>. <br>
