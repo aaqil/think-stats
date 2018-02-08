@@ -6,12 +6,15 @@
             Median <br>
             Mode    <br>
             Standard Deviation and Delta   <br>
-     <br>
      
-            Inferential Statistics   <br>
-            Sampling and its types    <br>
-            Inferential Analysis     <br>
-    <br>  
+     
+ Inferential Statistics 
+ 
+ Sampling and its types
+ 
+ Inferential Analysis     
+   
+   
  **Probability**    <br>
          Understanding Probability      <br>
          Rules of Probability            <br>
