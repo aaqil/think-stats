@@ -1,35 +1,37 @@
  # ThinkStats #
  
  **Basic Statistics Terminologies**
-            Mean
-            Median
-            Mode
-            Standard Deviation and Delta
+ <br>
+            Mean <br>
+            Median <br>
+            Mode    <br>
+            Standard Deviation and Delta   <br>
+     <br>
      
-     Inferential Statistics
-     Sampling and its types
-     Inferential Analysis
-      
- **Probability**
-         Understanding Probability
-         Rules of Probability
-         Classical/Empirical Probability
- 
- **Hypothesis Testing**
-         Introduction
-         Type I and Type II errors
-         Interpreting the Error Table
- 
- **Correlation and Regression**
-         Types of Correlation and Methods
-         Regression Introduction and Basics
-         Simple Linear Regression(SLR)
-         Multiple Linear Regression(MLR)
-         Binary Logistic Regression(BLR)
-         
+            Inferential Statistics   <br>
+            Sampling and its types    <br>
+            Inferential Analysis     <br>
+    <br>  
+ **Probability**    <br>
+         Understanding Probability      <br>
+         Rules of Probability            <br>
+         Classical/Empirical Probability     <br>
+ <br>
+ **Hypothesis Testing**    <br>
+         Introduction       <br>
+         Type I and Type II errors    <br>
+         Interpreting the Error Table    <br>
+ <br>
+ **Correlation and Regression**      <br>
+         Types of Correlation and Methods    <br>
+         Regression Introduction and Basics   <br>
+         Simple Linear Regression(SLR)        <br>
+         Multiple Linear Regression(MLR)          <br>
+         Binary Logistic Regression(BLR)         <br>
+    <br>     
   **Note**: These topics will be updated soon.           
- 
- 
+ <br>
+ <br>
  
  __Conditional Distribution:__  As the name itself indicates that the distribution of data based on a condition.
 For example, you are given a large set of data and you are interested in a particular item in that data, and its characteristics and how it varies in accordance with the data can be known using Conditional Distribution.
